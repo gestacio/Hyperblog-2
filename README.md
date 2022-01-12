@@ -7,3 +7,4 @@ En este curso vemos de todo:
 * Git
 * Github
 
+* Creado por el increíble curso de Platzi
