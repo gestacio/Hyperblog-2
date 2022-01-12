@@ -9,3 +9,4 @@ En este curso vemos de todo:
 
 * Creado por el increíble curso de Platzi
 * incluye ejemplos en windows linux y mac
+* disponible para todas las edades
