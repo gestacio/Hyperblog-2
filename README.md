@@ -8,3 +8,4 @@ En este curso vemos de todo:
 * Github
 
 * Creado por el increíble curso de Platzi
+* incluye ejemplos en windows linux y mac
